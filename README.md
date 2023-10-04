@@ -8,7 +8,7 @@
 |   You    |    Du   |      "dú"     |       |
 |    He    |   Han   |     "han"     |       |
 |    She   |   Hun   |     "hún"     |       |
-|    It    | den/det |   "dén/dèt"   |       |
+|    It    | den/det |   "dén/dèh"   |       |
 |    We    |    Vi   |      "vi"     |       |
 |    You   |    I    |      "í"      |       |
 |   They   |    De   |      "dì"     |       |
@@ -43,6 +43,68 @@
 
 
 ## Object Pronoun - Receive the action in a sentence ("Can you help me?")
+
+
+# HV - Question Words ? 
+
+> Reference : Page 117 (På vej til dansk)
+>
+> Refernce 2: Page 22, Exercise 13. (Good practice) 
+
+| Danish  | English | Pronunciation | Sound |
+|:-------:|:-------:|:-------------:|:-----:|
+| Hvad    | What    |               |       |
+| Hvem    | Who     |               |       |
+| Hvor    | Where   |               |       |
+| Hvorfor | Why     |               |       |
+| Hvornår | When    |               |       |
+| Hvordan | How     |               |       |
+| Hvis    | Whose   |               |       |
+| Hvilken | Which   |               |       |
+
+
+* ### Hvad? - What?
+    * > `Hvad hedder du?` - What is your name? What are you called?
+    * > `Hvad tid møder du?` - What time do you start (work/school/activity is implicit) ?
+
+* ### Hvem? - Who?
+    * > `Hvem er det?` - Who is that?
+
+* ### Hvor? - Where?
+    * > `Hvor bor du?` - Where do you live?
+    * > `Hvor kommer du fra?` - Where do you come from?
+    * > **<u> Notable exception**</u>:
+        * > Hvor mange?     - How many (not where many)
+            * > `Hvor mange kolleger har hun?` - How many colleagues does she have?
+        * > Hvor gammel?    - How old? (not where old) 
+            * > `Hvor gammel er du?` - How old are you?
+        * > Hvor længe?     - How long? (not where long)
+            * > `Hvor længe har han været i Danmark?` - How long have you been in Denmark?
+        * > Hvor meget?
+            * > `Hvor meget koster computeren ?` - How much is the computer?
+
+* ### Hvorfor? - Why?
+    * > `Hvorfor går hun på sprogskole?` - Why does she go to language school?
+
+* ### Hvornår? - When?
+    * > `Hvornår møder du?` - When do you start (work / school etc.. implicit) ?
+    * > `Hvornår får du fri?`- When are you free? ( When do you get off work / school etc..)
+
+* ### Hvordan? - How?
+    * > `Hvordan kommer han på arbejde?` - How does he get to work?
+    * > `Hvordan bor du?` - How do you live? (Do you live in an apartment or house or etc..)
+    * > `Hvordan går det?` - How is it going?
+
+* ### Hvis? - Whose?
+    * > `Hvis jakke er det?` - Whose jacket is that?
+
+* ### Hvilken? - Which?
+    * > `Hvilken bus tager du?` - Which bus do you take?
+
+
+
+
+
 
 ## Numbers and Numerals
 
