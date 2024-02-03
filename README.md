@@ -103,8 +103,36 @@
 
 
 
+## Conjunctions
 
+### Coordinating (Main) Conjunctions
+> Sentences that are independent from one another 
 
+| Dansk      | English                   |
+|------------|---------------------------|
+| og         | and                       |
+| eller      | or                        |
+| men        | but                       |
+| for        | because                   |
+| så         | so (consequence), as such |
+
+### Subordinating Conjunctions 
+> These phrases depend on a main sentence
+
+| Dansk   | English                                      |
+|---------|----------------------------------------------|
+| at      | that                                         |
+| da      | when (in the past)                           |
+| når     | when (in the future or when as in everytime) |
+| mens    | while                                        |
+| fordi   | because                                      |
+| så      | so that                                      |
+| hvis    | if                                           |
+| siden   | since                                        |
+| før     | before                                       |
+| om      | whether or not                               |
+| dengang | at that time                                 |
+| idet    | as ("As I come in the room")                 |
 
 ## Numbers and Numerals
 
