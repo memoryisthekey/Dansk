@@ -101,7 +101,15 @@
 * ### Hvilken? - Which?
     * > `Hvilken bus tager du?` - Which bus do you take?
 
-
+## Adverbs
+| Dansk       | English      |
+|-------------|--------------|
+| altid       | always       |
+| normalt     | normally     |
+| tit         | often        |
+| nogle gange | sometimes    |
+| ikke så tit | not so often |
+| aldrig      | never        |
 
 ## Conjunctions
 
