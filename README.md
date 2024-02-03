@@ -102,6 +102,9 @@
     * > `Hvilken bus tager du?` - Which bus do you take?
 
 ## Adverbs
+
+> Good reference: [Danish Adverbs](https://vocab.chat/blog/danish-adverbs.html)
+
 | Dansk       | English      |
 |-------------|--------------|
 | altid       | always       |
